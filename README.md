@@ -1,2 +1,2 @@
 # Linux-SysAdmin
-This repo ia for Linux SysAdmin projects
+This repo is for Linux SysAdmin projects
